@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmadhelaly
 - 👀 I’m interested in coding with python and Machine learning
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
  *woring on making my pakage (helaly.py) contribute to SVM
 - 
